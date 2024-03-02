@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+body {
+  color: black;
+  background-color: black;
+
+  font-size: 18px;
+  font-weight: normal;
+  font-family: "Roboto", sans-serif;
+}
+
+.Vagnoe {
+  color: #fffffc;
+  font-weight: bold;
+  text-align: center;
+  font-size: 42px;
+}
+
+.box-osnova {
+  border-radius: 50px;
+  padding: 45px;
+  background-color: #fff5ee;
+  max-width: 1500px;
+  margin: auto;
+}
+
+.decor2 {
+  border-bottom: 7px solid #dc143c;
+}
+
+img {
+  margin-right: 70px;
+}
+
+.ssilka {
+  list-style-image: linear-gradient(to left bottom, red, blue);
+  border-bottom: 2px solid #dc143c;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
